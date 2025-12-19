@@ -1,9 +1,7 @@
 <!-- Make a masterhead -->
 <h1 align="center">Hey! I'm Diar Shakimov</h1>
 <h3 align="center">CS & Math Student @ SFU | AI/ML Researcher | Full Stack Developer</h4>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/59/30/74/593074c302700c41ae6fdfeca3d51563.gif" width="300">
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dshak1&label=Profile%20views&color=4BC65E&style=for-the-badge" alt="dshak1" /> </p>
 
 - � Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
