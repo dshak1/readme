@@ -4,15 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dshak1&label=Profile%20views&color=4BC65E&style=for-the-badge" alt="dshak1" /> </p>
 
-- � Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
+- 🔬 Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
 
 - 🎓 BSc in Computer Science and Mathematics @ Simon Fraser University (Expected April 2028)
 
+- 💡 I'm into **AI/ML** and **low-level systems stuff** (C/C++). Also dabble in **cybersecurity**, **computer architecture**, and **cloud/DevOps**
 
+- 🌐 Full-stack work is like the glue that brings it all together—lets me build the interfaces that make my projects actually usable
 
 - ⬇️ Check my pinned projects below ⬇️
 
-- 📫 How to reach me **dsa158@sfu.ca**
+- 📫 Reach out: **dsa158@sfu.ca**
 
 <h2 align="left">💻 Tech Stack</h2>
 <div align="left">
